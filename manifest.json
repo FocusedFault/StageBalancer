@@ -1,0 +1,10 @@
+﻿{
+  "name": "StageBalancer",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Stage balancing for SOTV",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2111",
+    "RiskofThunder-HookGenPatcher-1.2.3"
+  ]
+}
